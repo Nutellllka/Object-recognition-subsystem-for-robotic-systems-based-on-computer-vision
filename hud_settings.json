@@ -1,0 +1,14 @@
+{
+  "custom_model": ".\\models\\logistics3_clean_to_hybrid_ft15\\weights\\best.pt",
+  "general_model": ".\\yolo11n.pt",
+  "mode": "dual",
+  "custom_conf": 0.25,
+  "general_conf": 0.40,
+  "suppress_iou": 0.45,
+  "custom_iou": 0.70,
+  "general_iou": 0.70,
+  "max_det": 80,
+  "imgsz": 640,
+  "device": "0",
+  "camera_id": 0
+}
